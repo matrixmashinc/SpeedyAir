@@ -67,7 +67,7 @@ namespace SpeedyAir
             {
                 orders.Where(o => o.Destination == flight.Arrival)
                     .Skip((flight.Day - 1) * MaxOrders)
-                    .Take(flight.Day * MaxOrders).ToList()
+                    .Take(MaxOrders).ToList()
                     .ForEach(f => f.Flight = flight);
             }
 
