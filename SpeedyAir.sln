@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33711.374
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedyAir", "SpeedyAir\SpeedyAir.csproj", "{110E8A82-5929-4611-BC5F-C487C3A243AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E8A82-5929-4611-BC5F-C487C3A243AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110E8A82-5929-4611-BC5F-C487C3A243AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110E8A82-5929-4611-BC5F-C487C3A243AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110E8A82-5929-4611-BC5F-C487C3A243AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0BCCDC-2275-4354-AACA-7CAC292A2FFB}
+	EndGlobalSection
+EndGlobal
